@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: estevenm/docker:latest
+          tags: EstevenMarchand/docker:latest
